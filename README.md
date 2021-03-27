@@ -1,5 +1,5 @@
 # d2 armory gui
-D2 armory gui is used to serve the frontend for the [D2 Armory](https://github.com/nokka/d2-armory) project.
+D2 armory gui is used to serve the frontend for the [D2 Armory](https://github.com/DoctorWoot420/d209-armory) project.
 
 ## Table of Contents
 - [Project Structure](#folder-structure)
@@ -24,7 +24,7 @@ This folder contains all environment & webpack configuration for both `dev` and 
 
 ### `nginx`
 This folder contains web server configuration with nginx that's used for Docker
-build and used within [D2 Armory](https://github.com/nokka/d2-armory) project.
+build and used within [D2 Armory](https://github.com/DoctorWoot420/d209-armory) project.
 
 ---
 
